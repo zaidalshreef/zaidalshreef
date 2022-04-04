@@ -1,6 +1,6 @@
 - 👋 Hi, I’m zaid Alsharif 
 - 👀 I’m interested in software development 
-- 🌱 I’m currently learning android development 
+- 🌱 I’m currently learning web development 
 - 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me Zaidalshreef@gmail.com
 
