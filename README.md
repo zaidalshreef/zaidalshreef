@@ -8,7 +8,7 @@
 
 <a align="right" href="https://app.daily.dev/Zaidalshraif"><img src="https://github.com/zaidalshreef/zaidalshreef/blob/main/devcard.svg" width="350" alt="zaidalshreef"/></a>
 
-- 🔭 I’m currently working on **discored clone**
+- 🔭 I’m currently working on ****
 
 - 🌱 I’m currently learning **Reactjs**
 
