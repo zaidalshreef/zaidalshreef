@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on ****
 
-- 🌱 I’m currently learning **Reactjs**
+- 🌱 I’m currently learning **alibaba cloud**
 
 - 👯 I’m looking to collaborate on **any Project**
 
