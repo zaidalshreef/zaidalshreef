@@ -2,7 +2,8 @@
 
 
 <h1 align="center">Hi 👋, I'm zaid alshraif</h1>
-<h3 align="center">A passionate software developer</h3>
+<h3 align="center">A passionate Software Engineer | Platform Engineer | Linux System Administrator | DevOps Engineer | Cloud
+Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zaidalshreef&label=Profile%20views&color=0e75b6&style=flat" alt="zaidalshreef" /> </p>
 
@@ -10,11 +11,11 @@
 
 - 🔭 I’m currently working on ****
 
-- 🌱 I’m currently learning **alibaba cloud**
+- 🌱 I’m currently learning **Kubernetes**
 
 - 👯 I’m looking to collaborate on **any Project**
 
-- 💬 Ask me about **JavaScript,Nodejs,Python**
+- 💬 Ask me about **JavaScript,Nodejs,Python,docker,Kubernetes**
 
 - 📫 How to reach me **zaidalshreef@gamil.com**
 
